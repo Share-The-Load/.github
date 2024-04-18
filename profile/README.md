@@ -1,8 +1,8 @@
 <img src="https://share-the-load-assets.s3.us-east-2.amazonaws.com/Copy+of+Share+the+Load.png" height="500" >
 
 # Share The Load
-[<img src="../google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=com.sharetheload.app)
-[<img src="../appstore-badge.png" height="50">](https://apps.apple.com/us/app/share-the-load/id6480417573?platform=iphone)
+[<img src="https://share-the-load-assets.s3.us-east-2.amazonaws.com/google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=com.sharetheload.app)
+[<img src="https://share-the-load-assets.s3.us-east-2.amazonaws.com/appstore-badge.png" height="50">](https://apps.apple.com/us/app/share-the-load/id6480417573?platform=iphone)
 
 ## Household Laundry Scheduler
 
